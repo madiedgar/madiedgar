@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hey y’all 👋🏾 I’m Madi. 
+I created [Legesher](https://github.com/legesher)💡, an OSS enabling developers to learn, innovate, & collaborate w/ code in their native language 💻
 
 <!--
-**madiedgar/madiedgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
