@@ -1,5 +1,5 @@
 ### Hey y’all 👋🏾 I’m Madi. 
-I created [Legesher](https://github.com/legesher)💡, an OSS enabling developers to learn, innovate, & collaborate w/ code in their native language 💻
+I'm a mom who created [Legesher](https://github.com/legesher)💡, an OSS enabling developers to learn, innovate, & collaborate w/ code in their native language 💻
 
 <!--
 Here are some ideas to get you started:
